@@ -1,3 +1,6 @@
 [submodule "bd_account_microservice"]
 	path = bd_account_microservice
 	url = https://github.com/osvchnk/bd_account_microservice.git
+[submodule "bd_transaction_microservice"]
+	path = bd_transaction_microservice
+	url = https://github.com/osvchnk/bd_transaction_microservice.git
