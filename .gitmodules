@@ -4,3 +4,6 @@
 [submodule "bd_transaction_microservice"]
 	path = bd_transaction_microservice
 	url = https://github.com/osvchnk/bd_transaction_microservice.git
+[submodule "bd_blockchain_add_microservice"]
+	path = bd_blockchain_add_microservice
+	url = https://github.com/osvchnk/bd_blockchain_add_microservice.git
